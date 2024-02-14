@@ -18,7 +18,7 @@
 For convenience, Docker is available [Dockerfile](docker/Dockerfile).
 
 **Create your own Data**  
-Look carefully sunrgbd_trainval folder.
+Look carefully `sunrgbd_trainval` folder.
 make your own data like sample files.   
 
 ```shell
