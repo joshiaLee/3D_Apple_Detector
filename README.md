@@ -17,9 +17,9 @@
 ### Installation
 For convenience, Docker is available [Dockerfile](docker/Dockerfile).
 
-**Create your own Data**
+**Create your own Data**  
 Look carefully sunrgbd_trainval folder.
-make your own data like sample files. 
+make your own data like sample files.   
 
 ```shell
 python tools/create_data.py sunrgbd --root-path ./data/sunrgbd --out-dir ./data/sunrgbd --extra-tag sunrgbd
