@@ -4,8 +4,9 @@
 > [FCAF3D] (https://github.com/filaPro](https://github.com/SamsungLabs/fcaf3d)
 
 
-![img1](https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/2278455e-af2a-416b-93c7-c0b2be09e397)
-![img2](https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/fec2029b-e151-4a7a-908a-75ddd79a407f)
+![img1](https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/2278455e-af2a-416b-93c7-c0b2be09e397){: width="250" height="250"}
+
+![img2](https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/fec2029b-e151-4a7a-908a-75ddd79a407f){: width="250" height="250"}
 
 
 
