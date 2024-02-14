@@ -19,16 +19,3 @@
 
 
 
-### Citation
-
-If you find this work useful for your research, please cite our paper:
-```
-@inproceedings{rukhovich2022fcaf3d,
-  title={FCAF3D: fully convolutional anchor-free 3D object detection},
-  author={Rukhovich, Danila and Vorontsova, Anna and Konushin, Anton},
-  booktitle={European Conference on Computer Vision},
-  pages={477--493},
-  year={2022},
-  organization={Springer}
-}
-```
