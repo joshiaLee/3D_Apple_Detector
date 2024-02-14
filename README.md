@@ -4,9 +4,14 @@
 > [FCAF3D] (https://github.com/SamsungLabs/fcaf3d)
 
 
-![img1](https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/2278455e-af2a-416b-93c7-c0b2be09e397)
+<p align="center">
+  <img src="https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/2278455e-af2a-416b-93c7-c0b2be09e397" alt="img1" width="50%"/>
+</p>
 
-![img2](https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/fec2029b-e151-4a7a-908a-75ddd79a407f)
+<p align="center">
+  <img src="(https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/fec2029b-e151-4a7a-908a-75ddd79a407f)" alt="img1" width="50%"/>
+</p>
+
 
 
 
