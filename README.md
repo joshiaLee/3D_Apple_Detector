@@ -17,7 +17,7 @@
 ### Installation
 For convenience, Docker is available [Dockerfile](docker/Dockerfile).
 
-**create bin file**
+**Create bin file**
 ```shell
 python tools/create_data.py sunrgbd --root-path ./data/sunrgbd --out-dir ./data/sunrgbd --extra-tag sunrgbd
 ```
