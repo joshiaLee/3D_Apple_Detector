@@ -30,6 +30,14 @@ python tools/create_data.py sunrgbd --root-path ./data/sunrgbd --out-dir ./data/
 python tools/train.py configs/fcaf3d/fcaf3d_sunrgbd-3d-10class.py
 ```
 
+**Visualization**  
+For better visualizations, you may set `score_thr` in configs to `0.25`:
+```shell
+python tools/test.py configs/fcaf3d/fcaf3d_sunrgbd-3d-10class.py \
+/work_dirs/fcaf3d_sunrgbd-3d-10class/latest.pth --eval mAP --show --show-dir \
+/work_dirs/fcaf3d_sunrgbd-3d-10class
+```
+
 **Precision on Apple Data**
 | Object | mAP@0.25 | mAP@0.5 |
 |:------:|:--------:|:-------:|
