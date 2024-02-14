@@ -8,8 +8,9 @@
   <img src="https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/2278455e-af2a-416b-93c7-c0b2be09e397" alt="img1" width="50%"/>
 </p>
 
+
 <p align="center">
-  <img src="(https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/fec2029b-e151-4a7a-908a-75ddd79a407f)" alt="img1" width="50%"/>
+  <img src="(https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/e1b23f6f-ab98-4a65-a306-d4675108c8ca)" alt="img2" width="50%"/>
 </p>
 
 
