@@ -20,7 +20,7 @@ For convenience, Docker is available [Dockerfile](docker/Dockerfile).
 **Training**
 To start training
 ```shell
-bash python tools/create_data.py sunrgbd --root-path ./data/sunrgbd --out-dir ./data/sunrgbd --extra-tag sunrgbd
+python tools/create_data.py sunrgbd --root-path ./data/sunrgbd --out-dir ./data/sunrgbd --extra-tag sunrgbd
 ```
 
 
