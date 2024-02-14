@@ -9,9 +9,9 @@
 </p>
 
 
-<p align="center">
-  <img src="(https://github.com/joshiaLee/3D_Object_Detection/assets/93809073/e1b23f6f-ab98-4a65-a306-d4675108c8ca)" alt="img2" width="50%"/>
-</p>
+![Uploading img2.png…]()
+
+
 
 
 
