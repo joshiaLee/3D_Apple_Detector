@@ -27,5 +27,10 @@ python tools/create_data.py sunrgbd --root-path ./data/sunrgbd --out-dir ./data/
 python tools/train.py configs/fcaf3d/fcaf3d_sunrgbd-3d-10class.py
 ```
 
+**Precision on Apple Data**
+| Object | mAP@0.25 | mAP@0.5 |
+|:------:|:--------:|:-------:|
+| Apple | 0.9894 | 0.9822 |
+
 
 
